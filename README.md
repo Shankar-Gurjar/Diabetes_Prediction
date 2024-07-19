@@ -10,7 +10,7 @@ The motivation was to experiment with end to end machine learning model " Diabet
 
 #Data Summary & Column Description
 
-Column Description
+
 **Pregnancies** =  'the condition or period of being pregnant.'
 
 **Glucose**    = 'type of sugar in the blood and is the major source of energy for the body's cells.'
