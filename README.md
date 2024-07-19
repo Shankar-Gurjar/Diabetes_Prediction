@@ -11,15 +11,20 @@ The motivation was to experiment with end to end machine learning model " Diabet
 #Data Summary & Column Description
 
 Column Description
-Pregnancies =  'the condition or period of being pregnant.'
-Glucose    = 'type of sugar in the blood and is the major source of energy for the body's cells.'
-BloodPressure = 'the force of blood pushing against the walls of your arteries as your heart pumps blood through your body'
-SkinThickness = 'Thick skin is thicker due to it containing an extra layer in the epidermis, called the stratum lucidum'
-Insulin = 'a hormone produced in the pancreas by the islets of Langerhans, which regulates the amount of glucose in the blood. The lack of insulin causes a form of diabetes.'
+**Pregnancies** =  'the condition or period of being pregnant.'
 
-BMI  = 'Body mass index (BMI) is a ratio of a person's weight in kilograms to the square of their height in meters.'
-DiabetesPedigreeFunction = 'The 'DiabetesPedigreeFunction' is a function that scores the probability of diabetes based on family history, with a realistic range of 0.08 to 2.42'
+**Glucose**    = 'type of sugar in the blood and is the major source of energy for the body's cells.'
 
-Age. = 'The length of time that a person has lived'
-Outcome = Diabetes, Yes or No
+**BloodPressure** = 'the force of blood pushing against the walls of your arteries as your heart pumps blood through your body'
+
+**SkinThickness** = 'Thick skin is thicker due to it containing an extra layer in the epidermis, called the stratum lucidum'
+
+**Insulin** = 'a hormone produced in the pancreas by the islets of Langerhans, which regulates the amount of glucose in the blood. The lack of insulin causes a form of diabetes.'
+
+**BMI**  = 'Body mass index (BMI) is a ratio of a person's weight in kilograms to the square of their height in meters.'
+
+**DiabetesPedigreeFunction** = 'The 'DiabetesPedigreeFunction' is a function that scores the probability of diabetes based on family history, with a realistic range of 0.08 to 2.42'
+
+**Age**. = 'The length of time that a person has lived'
+**Outcome** = Diabetes, Yes or No
 
