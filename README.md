@@ -26,5 +26,6 @@ The motivation was to experiment with end to end machine learning model " Diabet
 **DiabetesPedigreeFunction** = 'The 'DiabetesPedigreeFunction' is a function that scores the probability of diabetes based on family history, with a realistic range of 0.08 to 2.42'
 
 **Age**. = 'The length of time that a person has lived'
+
 **Outcome** = Diabetes, Yes or No
 
