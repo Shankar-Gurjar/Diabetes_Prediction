@@ -8,5 +8,18 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 The motivation was to experiment with end to end machine learning model " Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not.". This is also sort of fun to work on a project like this which could be beneficial for the society.
 
+#Data Summary & Column Description
 
+Column Description
+Pregnancies =  'the condition or period of being pregnant.'
+Glucose    = 'type of sugar in the blood and is the major source of energy for the body's cells.'
+BloodPressure = 'the force of blood pushing against the walls of your arteries as your heart pumps blood through your body'
+SkinThickness = 'Thick skin is thicker due to it containing an extra layer in the epidermis, called the stratum lucidum'
+Insulin = 'a hormone produced in the pancreas by the islets of Langerhans, which regulates the amount of glucose in the blood. The lack of insulin causes a form of diabetes.'
+
+BMI  = 'Body mass index (BMI) is a ratio of a person's weight in kilograms to the square of their height in meters.'
+DiabetesPedigreeFunction = 'The 'DiabetesPedigreeFunction' is a function that scores the probability of diabetes based on family history, with a realistic range of 0.08 to 2.42'
+
+Age. = 'The length of time that a person has lived'
+Outcome = Diabetes, Yes or No
 
