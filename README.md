@@ -1,6 +1,6 @@
 # Gurjar_Upasani_Final_Project_IA651D1_U24
 
-#Overview
+##Overview
 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features such as Pregnancies, Insulin Level, Age, BMI. The data set that has used in this project has taken from the kaggle . "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Used classification machine learning approaches.
 
