@@ -29,3 +29,28 @@ The motivation was to experiment with end to end machine learning model " Diabet
 
 **Outcome** = Diabetes, Yes or No
 
+# Learning Objective
+The following points were the objective of the project .
+
+#Data gathering
+
+#Descriptive Analysis
+
+#Data Visualizations
+
+#Data Preprocessing
+
+#Data Modelling
+
+#Model Evaluation
+
+#Model Deployment
+
+#Technical Aspect
+
+#Training a machine learning model using scikit-learn.
+
+#A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc .
+Once it get all the fields information , the prediction is displayed.
+
+
