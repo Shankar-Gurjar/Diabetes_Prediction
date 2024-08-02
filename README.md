@@ -56,11 +56,18 @@ Replaced all rows with NA or 0 with Median. We also tried Mean but distribution 
 
 Explored the output variable and seems data is balanced where 65% values are o(no diabetes)  and 35% values are 1(yes diabetes).
 
+
 ![download (4)](https://github.com/user-attachments/assets/e404df7e-1840-4cef-9b82-bc95cdd0c930)
 
 
 
 **Correlation Matrix**
+
+Upon reviewing correlation matrix did not find any strong correlation between variables but there are some variables that shows some natural mild correlation listed below.
+pregnancies and age correlation value is 0.54.
+Skinthickness and BMI correlation value is 0.54. 
+Glucose & outcome correlation value is 0.49.
+
 
 ![download (5)](https://github.com/user-attachments/assets/ddc4bf0e-fa8a-4bfa-959c-7ddb19508858)
 
@@ -84,11 +91,19 @@ Explored the output variable and seems data is balanced where 65% values are o(n
 
 **Decision Tree**
 
+Implemented decision tree algorithm to predict the diabetes. Built with entropy as splitting method Highest precision (76%) achieved with tree depth 7.  
+
+
 ![download (8)](https://github.com/user-attachments/assets/93e968b1-922d-440d-8868-8037f46fcf71)
+
 
 ![download (9)](https://github.com/user-attachments/assets/9e4e1cc3-d284-4f51-87e5-61c5d34dbbc9)
 
+
 <img width="456" alt="Screenshot 2024-08-02 at 10 20 57 AM" src="https://github.com/user-attachments/assets/91575854-f134-4950-8a47-e03e0d613536">
+
+**Decision tree classification report**
+
 
 <img width="795" alt="Screenshot 2024-08-02 at 10 21 09 AM" src="https://github.com/user-attachments/assets/5964e809-b728-4c01-853c-958929e7e77b">
 
@@ -97,16 +112,28 @@ Explored the output variable and seems data is balanced where 65% values are o(n
 
 **Random Forest**
 
+
 ![download (10)](https://github.com/user-attachments/assets/ad27f656-1094-4bff-9da4-a40b1e50031a)
 
+
 <img width="403" alt="Screenshot 2024-08-02 at 10 24 17 AM" src="https://github.com/user-attachments/assets/9b5a6b95-861e-4708-b5e4-e9a3e262f1c5">
+
+
+**Random Forest classification report**
+
 
 <img width="765" alt="Screenshot 2024-08-02 at 10 24 27 AM" src="https://github.com/user-attachments/assets/c2d0e931-1d10-4691-8344-24215718e66f">
 
 
 **Feature Importance in Random Forest**
 
+Most important variables are - glucose, BMI, DPF
+
+
 ![download (11)](https://github.com/user-attachments/assets/2bab6930-0728-45ae-8e92-65e7c6dd9de7)
+
+
+**Conclusion**
 
 <img width="811" alt="Screenshot 2024-08-02 at 10 26 10 AM" src="https://github.com/user-attachments/assets/73ae7ebf-b32e-4daf-ad86-16d9a620ca80">
 
