@@ -29,6 +29,15 @@ The motivation was to experiment with end to end machine learning model " Diabet
 
 **Outcome** = Diabetes, Yes or No
 
+![download (2)](https://github.com/user-attachments/assets/12f68e00-9a6b-4862-bfed-85a7be59f91e)
+
+
+# Exploratory data analysis(EDA)
+
+**BloodPressure Variable**
+
+
+
 # Learning Objective
 The following points were the objective of the project .
 
