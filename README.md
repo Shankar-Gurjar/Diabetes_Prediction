@@ -1,4 +1,4 @@
-# Gurjar_Upasani_Final_Project_IA651D1_U24
+# Diabetes Prediction
 
 # Overview
 
